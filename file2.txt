@@ -1,2 +1,5 @@
 hi this is my file2
+<<<<<<< HEAD
 now this file is mdified 
+=======
+>>>>>>> 339ce96602fd83e24bc274ac7cdc8a80058412e4
